@@ -1,7 +1,8 @@
 # Personal-Landing: MohammadHasani
 
 New template with a new design written with the Astro framework. 🧑‍🚀
-Version 2.0.0
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/mohammadhasanii/Personal-Landing)
 
 ```sh
 git clone https://github.com/mohammadhasanii/Personal-Landing
